@@ -1,0 +1,2 @@
+['runv2.py', '-cid', '6717ed42e5ad', '-cpu', '1', '-audio', 'source/input1', '-rep', '1', '-mode', 'seq']
+
