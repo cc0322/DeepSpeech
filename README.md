@@ -1,4 +1,6 @@
 # DeepSpeech
+Test Summary - DeepSpeech.pdf - Test report for all the test cases/test run
+
 runv2.py - docker execute a deepspeech transcription by options
 --help
 usage: runv2.py [-h] [-cid CID] [-audio AUDIOSOURCE] [-mode MODE] [-rep REPTITION] [-accuracy ACCURACY] [-cpu CPUPERIOD]
